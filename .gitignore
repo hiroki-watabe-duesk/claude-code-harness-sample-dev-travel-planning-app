@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+
+# 評価・検証の成果物（エバリュエーターが生成する使い捨てファイル）
+.playwright-mcp/
+sprint*.png
